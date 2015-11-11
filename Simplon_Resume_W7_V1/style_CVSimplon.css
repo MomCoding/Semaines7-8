@@ -1,0 +1,209 @@
+/* Eléments généraux */
+
+* {
+	font-family: Calibri, sans-serif;
+	color: #34495E;
+	}
+	
+.conteneur {
+	margin: 15px;
+	padding: 10px;
+	}
+	
+
+/* Header */
+
+header {
+	background-image: url('images/swirl_pattern.png');
+	margin: 0;
+	padding: 0;
+	background-attachment: fixed;
+	}
+	
+
+#image {
+	display: inline-block;
+	width: 20%;
+	vertical-align: top;
+	}
+	
+header #image img {
+	width: 200px;
+	height: 200px;
+	}
+	
+	
+#texte_header {
+	display: inline-block;
+	text-align: center;
+	width: 60%;
+	}
+	
+header h1 {
+	color: #F89406;
+	font-size: 3em;
+	font-weight: bold;
+	}
+	
+header p {
+	color: #663399;
+	font-size: 1.2em;
+	font-weight: bold;
+	}
+	
+
+
+/* Main */
+
+main {
+	background-image: url('images/worn_dots.png');
+	background-attachment: fixed;
+	margin: 0;
+	padding: 0;
+	}
+	
+	
+#experience {
+	width: 30%;
+	display: inline-block;
+	position: relative;
+	vertical-align: top;
+	text-align: center;
+	padding: 10px;
+	}
+	
+#objectifs {
+	width: 30%;
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	padding: 10px;
+	}
+	
+#parcours {
+	width: 30%;
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	padding: 10px;
+	}
+	
+ul li {
+	list-style-type:none;
+	}
+	
+.container {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	}
+	
+	
+/* Footer */
+
+footer {
+	background-image: url('images/dimension_@2X.png');
+	background-attachment: fixed;
+	margin: 0;
+	padding: 0;
+	color: #663399;
+	}
+	
+footer h4, footer p {
+    text-align:center;
+    color: #663399;
+    margin: 10px;
+    padding: 5px;
+	}
+	
+
+/* Portoflio */	
+
+
+#filterOptions {
+	width: 80%
+	height: 40px;
+	margin: 0;
+	padding: 0;
+	}
+	
+#filterOptions li {
+	width:15%;
+	margin: auto;
+	display: inline-block;
+	vertical-align: center;
+	}
+
+#filterOptions li a {
+	font-size: 2em;
+	margin: auto;
+	text-decoration: none;
+	color: #F89406;
+	}
+	
+#filterOptions li a:hover { background-color: #663399; }
+#filterOptions li.active a { background-color: #663399; }
+	
+#holder {
+	width: 70%;
+	margin: auto;
+	padding: 20px;
+	text-align: center;
+	}
+	
+#holder div.item {
+	width: 250px;
+	height: 250px;
+	display: inline-block;
+	text-align: center;
+	}
+	
+#holder div.item h3 { margin-top: 10px; font-size: 16px; line-height: 20px; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
