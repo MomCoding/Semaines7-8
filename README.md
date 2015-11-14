@@ -1,4 +1,4 @@
-# Week7
+# Weeks7-8
 
 * Adding an interactive portfolio to the resume
 * Adding a jquery Quicksand effect to the portfolio
